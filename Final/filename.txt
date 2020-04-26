@@ -1,0 +1,5 @@
+1) do Euler circuits watch video how to define them
+2) Hamilton circuits watch video how to define them
+3) relations understand them
+4) look at discrete probability lectures understand baye's theorem and others
+5) do the final exam 2015 + 2018 and the assignments
